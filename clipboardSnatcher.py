@@ -20,11 +20,11 @@ work by Al Sweigart.
 Why use? - This tool isn't dependant on the what type of format the 
 data is stored in.  For example, you could run across the online employee 
 directory for company MegaCorpOne.  You could simply Ctrl + A and 
-Ctrl + C the entire directory and run clipboardsnatcher to extract 
+Ctrl + C the entire directory and run clipboardSnatcher to extract 
 the emails.  This tool is perfect for those times when you have access 
 to data, but for one reason or another, don't have the ability to access 
-the data directly as a file.  If you can highlight and copy the entire 
-thing, you're golden.
+the data directly as a file to point this script to.  If you can highlight 
+and copy the entire thing, you're golden.
 '''
 
 
